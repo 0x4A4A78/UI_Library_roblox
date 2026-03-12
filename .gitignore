@@ -1,0 +1,12 @@
+# ignore everything
+*
+
+# but keep these folders
+!dist/
+!dist/**
+
+!Addons/
+!Addons/**
+
+# keep gitignore itself
+!.gitignore
